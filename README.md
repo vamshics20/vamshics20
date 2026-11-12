@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Vamshi Lankala 👋
 
-<!--
-**vamshics20/vamshics20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech CSE student at **REVA University, Bengaluru** (2027) · Aspiring **Java Full Stack Developer**
 
-Here are some ideas to get you started:
+- 🔭 Currently building: **Legal Case Management module on Odoo 18** (team project lead)
+- 🌱 Learning: Core Java → Spring Boot → Spring AI → React
+- 💼 Open to: Java / Full Stack internships and entry-level roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech
+Java · Python · SQL · PostgreSQL · Spring Boot · Odoo · Linux · Git
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/lankala-vamshi-yadav) · vamsibrave4@gmail.com
